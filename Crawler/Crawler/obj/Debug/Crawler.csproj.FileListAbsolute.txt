@@ -1,0 +1,94 @@
+c:\users\fadia\documents\visual studio 2013\Projects\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+c:\users\fadia\documents\visual studio 2013\Projects\Crawler\Crawler\obj\Debug\Crawler.Form1.resources
+c:\users\fadia\documents\visual studio 2013\Projects\Crawler\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+c:\users\fadia\documents\visual studio 2013\Projects\Crawler\Crawler\obj\Debug\Crawler.csproj.GenerateResource.Cache
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\Crawler.exe
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\Crawler.pdb
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\Abot.dll
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\AngleSharp.dll
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\CsQuery.dll
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\log4net.dll
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\Robots.dll
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\Abot.xml
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\AngleSharp.xml
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\CsQuery.xml
+C:\Users\dena\Desktop\Crawler\Crawler\bin\Debug\log4net.xml
+C:\Users\dena\Desktop\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\dena\Desktop\Crawler\Crawler\obj\Debug\Crawler.Form1.resources
+C:\Users\dena\Desktop\Crawler\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+C:\Users\dena\Desktop\Crawler\Crawler\obj\Debug\Crawler.csproj.GenerateResource.Cache
+C:\Users\dena\Desktop\Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\dena\Desktop\Crawler\Crawler\obj\Debug\Crawler.pdb
+C:\Users\fadia\Downloads\Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\fadia\Downloads\Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\fadia\Downloads\Crawler\Crawler\obj\Debug\Crawler.pdb
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.pdb
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.Form1.resources
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.csproj.GenerateResource.Cache
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Crawler.exe
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Crawler.pdb
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Abot.dll
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\AngleSharp.dll
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\CsQuery.dll
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\log4net.dll
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Robots.dll
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Abot.xml
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\AngleSharp.xml
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\CsQuery.xml
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\log4net.xml
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Database1.mdf
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\bin\Debug\Database1_log.ldf
+C:\Users\dena\Downloads\Crawler (1)\Crawler\Crawler\obj\Debug\Crawler.DBmanager.resources
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Crawler.exe.config
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.exe
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.pdb
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.DBmanager.resources
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.Form1.resources
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+F:\4th year 1st term\Crawler\Crawler\Crawler\obj\Debug\Crawler.csproj.GenerateResource.Cache
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Database1.mdf
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Database1_log.ldf
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Crawler.exe
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Crawler.pdb
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Abot.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\AngleSharp.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\CsQuery.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\log4net.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\MySql.Data.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Robots.dll
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\Abot.xml
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\AngleSharp.xml
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\CsQuery.xml
+F:\4th year 1st term\Crawler\Crawler\Crawler\bin\Debug\log4net.xml
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Crawler.exe.config
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.exe
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.pdb
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Database1.mdf
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Database1_log.ldf
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Crawler.exe
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Crawler.pdb
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Abot.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\AngleSharp.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\CsQuery.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\log4net.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\MySql.Data.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Robots.dll
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\Abot.xml
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\AngleSharp.xml
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\CsQuery.xml
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\bin\Debug\log4net.xml
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.DBmanager.resources
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.Form1.resources
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.Properties.Resources.resources
+F:\4th year 2nd term\GIS\Labs (3)\Project\Project\Crawler\Crawler\obj\Debug\Crawler.csproj.GenerateResource.Cache
